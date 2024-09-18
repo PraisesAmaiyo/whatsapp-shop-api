@@ -61,7 +61,7 @@
   "trendingProducts": [
     {
       "id": "trendingProduct1",
-      "newArrivalImage": "TrendingProducthttps://github.com/PraisesAmaiyo/whatsapp-shop-db/blob/main/images/trendingProducts/trending-1.jpgImage1",
+      "newArrivalImage": "https://github.com/PraisesAmaiyo/whatsapp-shop-db/blob/main/images/trendingProducts/trending-1.jpg",
       "newArrivalName": "Vintage Shirt",
       "newArrivalPrice": 11000,
       "newArrivalDiscount": 20,
